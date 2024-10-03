@@ -1,0 +1,8 @@
+# Compiled class files
+*.class
+
+# VS Code settings folder
+.vscode/
+
+# Log files
+*.log
